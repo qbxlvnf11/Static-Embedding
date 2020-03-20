@@ -15,6 +15,7 @@ Contents
 =============
 
 - usage of pretrained lookup table (read pretrained lookup table file)
+
 - usage of pretrained lookup table using library (gensim, gluonnlp)
 
 Datasets
