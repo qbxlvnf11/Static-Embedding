@@ -14,8 +14,8 @@ LinkedIn: https://www.linkedin.com/in/taeyong-kong-016bb2154
 Contents
 =============
 
-- usage of pretrained lookup table (read pretrained lookup table file)
-- usage of pretrained lookup table using library (gensim, gluonnlp)
+- Usage of pretrained lookup table (read pretrained lookup table file)
+- Usage of pretrained lookup table with library (gensim, gluonnlp)
 
 Datasets
 =============
