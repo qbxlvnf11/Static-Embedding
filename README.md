@@ -17,11 +17,11 @@ Contents
 Datasets
 =============
 
-- Download pretrained Glove lookup table file
+#### - Download pretrained Glove lookup table file
 
 https://nlp.stanford.edu/projects/glove/
 
-- Bad words
+#### - Bad words
 
 https://www.kaggle.com/nicapotato/bad-bad-words
 
