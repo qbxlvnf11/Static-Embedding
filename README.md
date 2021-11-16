@@ -27,15 +27,3 @@ https://nlp.stanford.edu/projects/glove/
 - Bad words
 
 https://www.kaggle.com/nicapotato/bad-bad-words
-
-
-References
-=============
-
-Editing ...
-
-
-Code correction
-=============
-
-None
