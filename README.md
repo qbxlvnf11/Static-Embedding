@@ -1,21 +1,18 @@
 
-It is posted by Yong (예비개발자).
+Description
+=============
 
-Blog URL: https://blog.naver.com/qbxlvnf11
-
-LinkedIn: https://www.linkedin.com/in/taeyong-kong-016bb2154
-
-
-- Static embedding methods: word2vec, glove, fasttext
-- Utilization of pretrained static embedding model
-- Upload code as a Jupiter Notebook file (.ipynb) for immediate understanding
-
+#### - Static embedding methods
+  - e.g. word2vec, glove, fasttext
+  
+#### - Upload code as the Jupiter Notebook file (.ipynb) for intuitive understanding
 
 Contents
 =============
 
-- Usage of pretrained lookup table (read pretrained lookup table file)
-- Usage of pretrained lookup table with library (gensim, gluonnlp)
+#### - Usage of pretrained lookup table (read pretrained lookup table file)
+
+#### - Usage of pretrained lookup table with library (gensim, gluonnlp)
 
 Datasets
 =============
@@ -27,3 +24,12 @@ https://nlp.stanford.edu/projects/glove/
 - Bad words
 
 https://www.kaggle.com/nicapotato/bad-bad-words
+
+Author
+=============
+
+#### - LinkedIn: https://www.linkedin.com/in/taeyong-kong-016bb2154
+
+#### - Blog URL: https://blog.naver.com/qbxlvnf11
+
+#### - Email: qbxlvnf11@google.com, qbxlvnf11@naver.com
