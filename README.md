@@ -2,7 +2,7 @@
 Description
 =============
 
-#### - Static embedding methods
+#### - Static word embedding methods
   - e.g. word2vec, glove, fasttext
   
 #### - Upload code as the Jupiter Notebook file (.ipynb) for intuitive understanding
